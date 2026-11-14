@@ -1,0 +1,106 @@
+@use "variables" as *;
+@use "modal";
+@use "footer";
+
+body {
+  font-family: $body-font;
+}
+
+.content-container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: $header-font;
+}
+
+h2 {
+  color: $color-primary;
+}
+
+header {
+  h2 {
+    color: $color-pale;
+  }
+}
+
+:root {
+  --primary-color: #278a5e;
+  --header-gradient-start: #055929;
+  --header-gradient-end: #10c042;
+}
+
+header {
+  padding: 30px;
+  background-image: linear-gradient(to right, #055929, #278a5e, #10c042);
+  color: white;
+
+  .content-container {
+    display: grid;
+    grid-template-columns: auto 1fr auto; // logo | title | button
+    align-items: center;
+    column-gap: 1.5rem;
+  }
+
+  .hero-text {
+    h1 {
+      margin: 0;
+    }
+    h2 {
+      margin: 0.25rem 0 0;
+    }
+  }
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.navbar-toggler {
+  margin-left: auto;
+}
+
+address {
+  font-style: normal;
+}
+
+.carousel {
+  border: solid $color-secondary;
+}
+
+.carousel-caption {
+  background-color: $color-black-transparent;
+}
+
+.navbar {
+  background-color: $color-mid;
+
+  .navbar-brand img {
+    border-radius: 50%;
+  }
+
+  .nav-link {
+    color: white;
+    font-weight: 600;
+    padding: 0.75rem 1rem;
+    transition: background-color 0.2s;
+
+    &:hover,
+    &:focus {
+      background-color: rgba(255, 255, 255, 0.15);
+      border-radius: 6px;
+    }
+  }
+
+  .nav-item.active .nav-link {
+    background-color: rgba(255, 255, 255, 0.25);
+    border-radius: 6px;
+  }
+}

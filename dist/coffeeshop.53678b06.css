@@ -1,0 +1,129 @@
+#reserveModal .modal-header {
+  color: #fff;
+  background-color: #17a2b8;
+}
+
+#loginModal .modal-header {
+  color: #fff;
+  background-color: #127a49;
+}
+
+.footer-grid {
+  text-align: center;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: start;
+  display: grid;
+}
+
+.site-footer {
+  background-image: linear-gradient(#cec8ff, #fff);
+  padding: 20px 0;
+}
+
+.footer-links {
+  text-align: left;
+}
+
+.footer-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+.content-container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+h1, h2, h3 {
+  font-family: Lobster, cursive;
+}
+
+h2 {
+  color: #265633;
+}
+
+header h2 {
+  color: #cec8ff;
+}
+
+:root {
+  --primary-color: #278a5e;
+  --header-gradient-start: #055929;
+  --header-gradient-end: #10c042;
+}
+
+header {
+  color: #fff;
+  background-image: linear-gradient(to right, #055929, #278a5e, #10c042);
+  padding: 30px;
+}
+
+header .content-container {
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  column-gap: 1.5rem;
+  display: grid;
+}
+
+header .hero-text h1 {
+  margin: 0;
+}
+
+header .hero-text h2 {
+  margin: .25rem 0 0;
+}
+
+.row-content {
+  border-bottom: 1px ridge;
+  min-height: 200px;
+  padding: 50px 0;
+}
+
+.navbar-toggler {
+  margin-left: auto;
+}
+
+address {
+  font-style: normal;
+}
+
+.carousel {
+  border: solid #2c1885;
+}
+
+.carousel-caption {
+  background-color: #00000080;
+}
+
+.navbar {
+  background-color: #127a49;
+}
+
+.navbar .navbar-brand img {
+  border-radius: 50%;
+}
+
+.navbar .nav-link {
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: 600;
+  transition: background-color .2s;
+}
+
+.navbar .nav-link:hover, .navbar .nav-link:focus {
+  background-color: #ffffff26;
+  border-radius: 6px;
+}
+
+.navbar .nav-item.active .nav-link {
+  background-color: #ffffff40;
+  border-radius: 6px;
+}
+/*# sourceMappingURL=coffeeshop.53678b06.css.map */

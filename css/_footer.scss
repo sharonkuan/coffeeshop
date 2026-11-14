@@ -1,0 +1,23 @@
+@use "variables" as *;
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: start;
+  text-align: center;
+}
+
+.site-footer {
+  background-image: linear-gradient($color-pale, white);
+  padding: 20px 0;
+}
+
+.footer-links {
+  text-align: left;
+}
+
+.footer-links ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,118 @@
+#reserveModal .modal-header {
+  color: #fff;
+  background-color: #17a2b8;
+}
+
+#loginModal .modal-header {
+  color: #fff;
+  background-color: #127a49;
+}
+
+.footer-grid {
+  text-align: center;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: start;
+  display: grid;
+}
+
+.site-footer {
+  background-image: linear-gradient(#cec8ff, #fff);
+  padding: 20px 0;
+}
+
+.footer-links {
+  text-align: left;
+}
+
+.footer-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+.content-container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+h1, h2, h3 {
+  font-family: Lobster, cursive;
+}
+
+h2 {
+  color: #265633;
+}
+
+header h2 {
+  color: #cec8ff;
+}
+
+:root {
+  --primary-color: #3046c5;
+  --header-gradient-start: #5637dd;
+  --header-gradient-end: #60106b;
+}
+
+header {
+  color: #fff;
+  background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
+  padding: 30px;
+}
+
+.row-content {
+  border-bottom: 1px ridge;
+  min-height: 200px;
+  padding: 50px 0;
+}
+
+.navbar-toggler {
+  margin-left: auto;
+}
+
+address {
+  font-style: normal;
+}
+
+.carousel {
+  border: solid #5637dd;
+}
+
+.carousel-caption {
+  background-color: #00000080;
+}
+
+.navbar {
+  background-color: #127a49;
+}
+
+.navbar .navbar-brand img {
+  border-radius: 50%;
+}
+
+.navbar .nav-link {
+  color: #fff;
+  padding: .75rem 1rem;
+  font-weight: 600;
+  transition: background-color .2s;
+}
+
+.navbar .nav-link:hover, .navbar .nav-link:focus {
+  background-color: #ffffff26;
+  border-radius: 6px;
+}
+
+.navbar .nav-item.active .nav-link {
+  background-color: #ffffff40;
+  border-radius: 6px;
+}
+
+#reserveSeat {
+  align-items: flex-end;
+}
+/*# sourceMappingURL=coffeeshop.748ad148.css.map */

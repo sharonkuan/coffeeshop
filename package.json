@@ -1,0 +1,22 @@
+{
+  "name": "coffeeshop",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "Sharon Kuan",
+  "license": "ISC",
+  "description": "A fictional coffee shop website.",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}

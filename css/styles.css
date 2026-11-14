@@ -1,0 +1,117 @@
+#reserveModal .modal-header {
+  background-color: #17a2b8;
+  color: white;
+}
+
+#loginModal .modal-header {
+  background-color: #127a49;
+  color: white;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: start;
+  text-align: center;
+}
+
+.site-footer {
+  background-image: linear-gradient(#cec8ff, white);
+  padding: 20px 0;
+}
+
+.footer-links {
+  text-align: left;
+}
+
+.footer-links ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.content-container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lobster", cursive;
+}
+
+h2 {
+  color: #265633;
+}
+
+header h2 {
+  color: #cec8ff;
+}
+
+:root {
+  --primary-color: #3046c5;
+  --header-gradient-start: #5637dd;
+  --header-gradient-end: #60106b;
+}
+
+header {
+  padding: 30px;
+  background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
+  color: white;
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.navbar-toggler {
+  margin-left: auto;
+}
+
+address {
+  font-style: normal;
+}
+
+.carousel {
+  border: solid #5637dd;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+  background-color: #127a49;
+}
+.navbar .navbar-brand img {
+  border-radius: 50%;
+}
+.navbar .nav-link {
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+  transition: background-color 0.2s;
+}
+.navbar .nav-link:hover, .navbar .nav-link:focus {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 6px;
+}
+.navbar .nav-item.active .nav-link {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+}
+
+#reserveSeat {
+  align-items: flex-end;
+}
+
+/*# sourceMappingURL=styles.css.map */
