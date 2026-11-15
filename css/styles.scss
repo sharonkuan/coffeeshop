@@ -104,3 +104,13 @@ address {
     border-radius: 6px;
   }
 }
+
+.pageBanner {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+
+  h2 {
+    margin: 0;
+    font-size: clamp(1.5rem, 4vw, 2.25rem);
+  }
+}
