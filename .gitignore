@@ -1,3 +1,8 @@
 node_modules/
 dist/
 .parcel-cache/
+.firebasefirebase-debug.log
+.firebase/dist/
+.parcel-cache/
+.firebase/
+firebase-debug.log
