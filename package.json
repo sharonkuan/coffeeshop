@@ -8,6 +8,7 @@
   "source": "index.html",
   "scripts": {
     "start": "parcel --open",
+    "sass": "sass --watch css/styles.scss css/styles.css", 
     "build": "parcel build"
   },
   "devDependencies": {

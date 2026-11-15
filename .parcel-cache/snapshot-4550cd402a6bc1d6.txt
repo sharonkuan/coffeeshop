@@ -1,4 +1,4 @@
-4416
+4415
 64C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\about.html134391727594878036 0
 94C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\font-awesome\less\path.less134391647770142722 0
 66C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\package.json134391703728567233 0
@@ -40,11 +40,11 @@
 105C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\modifiers\offset.js134391647654792232 0
 103C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\ordered-binary\assets\powers-dre.png134391647496921297 0
 71C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\lmdb134391647499059883 1
-57C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css134391621534375738 1
+57C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css134391770337097582 1
 72C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\json5134391647496110563 1
 118C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\dom-utils\isScrollParent.js.flow134391647654289850 0
-58C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist134391766326620619 1
-64C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\index.html134391766326393681 0
+58C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist134391777229560350 1
+64C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\index.html134391777223402040 0
 104C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\package-manager\test\fixtures134391647497154238 1
 74C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\is-glob134391647494461827 1
 105C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\esm\_iterable_to_array.js134391647498801533 0
@@ -582,7 +582,7 @@
 98C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\caniuse-lite\data\regions\KI.js134391647501631499 0
 82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\sass\types\util134391703728567233 1
 97C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\type-fest\source\asyncify.d.ts134391647494941901 0
-69C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\index.html134391766326620619 0
+69C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\index.html134391777226898181 0
 98C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\sass\types\legacy\importer.d.ts134391703727617486 0
 111C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\dist\esm\utils\mergeByName.js134391647655789733 0
 95C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\ordered-binary\tests\test.js134391647496165346 0
@@ -1144,7 +1144,7 @@
 101C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\caniuse-lite\data\features\apng.js134391647496962307 0
 94C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\utils\src\is-url.js134391647497629697 0
 84C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\parcel\src\bin.js134391647494461827 0
-82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.505dc01f.css134391765179059148 0
+82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.505dc01f.css134391777229560350 0
 143C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional134391647507320643 0
 85C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\font-awesome\fonts134391647769980840 1
 84C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\picomatch\LICENSE134391647493780753 0
@@ -1234,7 +1234,7 @@
 136C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing\package.json134391647499644350 0
 98C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\caniuse-lite\data\regions\NG.js134391647503134731 0
 87C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\ordered-binary\.idea134391647496962307 1
-82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.dd90a294.css134391765179561048 0
+82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.dd90a294.css134391777228065855 0
 88C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\ordered-binary\assets134391647496891251 1
 86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\ordered-binary\dist134391647495020070 1
 107C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\bootstrap\scss\mixins\_color-scheme.scss134391647658292577 0
@@ -1622,7 +1622,7 @@
 113C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\cjs\_async_generator_delegate.cjs134391647495296387 0
 103C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\caniuse-lite\data\features\tls1-1.js134391647505472536 0
 126C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c134391647497361995 0
-86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.53678b06.css.map134391765178895446 0
+86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.53678b06.css.map134391777228065855 0
 126C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1134391647496831256 0
 106C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\caniuse-lite\data\features\dragndrop.js134391647500307010 0
 102C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\runtime-js\lib\JSRuntime.js134391647496931245 0
@@ -1864,7 +1864,6 @@
 92C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\escalade\sync\index.d.mts134391647495296387 0
 98C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\caniuse-lite\data\regions\BR.js134391647497968165 0
 91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\transformer-node134391647494628101 1
-68C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css\styles.css134391628243807314 0
 89C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\escalade\sync\index.js134391647494432858 0
 106C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\dist\esm\createPopper.js134391647653130226 0
 90C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\color-convert\README.md134391647495020070 0
@@ -3138,7 +3137,7 @@
 107C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\_\_async_generator_delegate134391647499477974 1
 87C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\_\index134391647500627180 1
 109C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\_\_apply_decorated_descriptor134391647499354474 1
-85C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.74e50795.js.map134391765596473429 0
+85C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.74e50795.js.map134391777228065855 0
 100C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\_\_apply_decs_2203_r134391647499354474 1
 98C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\_\_apply_decs_2311134391647499354474 1
 102C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@swc\helpers\_\_array_like_to_array134391647499457865 1
@@ -3531,7 +3530,7 @@
 94C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\package.json134391647652301254 0
 101C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\createPopper.js134391647652463227 0
 106C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\createPopper.js.flow134391647652463227 0
-85C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.3464ddca.js.map134391765596146928 0
+85C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.3464ddca.js.map134391777228065855 0
 94C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\enums.js134391647652484202 0
 93C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\node-resolver-core134391647495206387 1
 94C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\index.js134391647652484202 0
@@ -3608,7 +3607,7 @@
 112C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\modifiers\popperOffsets.js134391647654792232 0
 117C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\dist\esm\dom-utils\getLayoutRect.js134391647655296360 0
 116C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\modifiers\preventOverflow.d.ts134391647654792232 0
-91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.3073213d.svg134391765178400028 0
+91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.3073213d.svg134391777226898181 0
 109C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\dom-utils\contains.d.ts134391647653793111 0
 107C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\dom-utils\contains.js134391647653793111 0
 120C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@popperjs\core\lib\dom-utils\getCompositeRect.js.flow134391647653962926 0
@@ -4341,7 +4340,7 @@
 98C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\bundler-default\LICENSE134391647493780753 0
 94C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\bundler-default\src134391647494628101 1
 112C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@parcel\bundler-default\lib\DefaultBundler.js134391647494402864 0
-82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.ab0485ab.css134391765179059148 0
+82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.ab0485ab.css134391777229560350 0
 120C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js134391647493699262 0
 91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@mischnic\json-sourcemap134391647494457877 1
 96C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\@mischnic\json-sourcemap\dist134391647495030586 1
@@ -4372,7 +4371,7 @@
 84C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\.bin\browserslist134391647507320643 0
 88C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\.bin\browserslist.cmd134391647507320643 0
 83C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\.bin\detect-libc134391647507320643 0
-93C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.77f3c83b.woff2134391765178400028 0
+93C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.77f3c83b.woff2134391777226898181 0
 87C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\.bin\detect-libc.ps1134391647507320643 0
 95C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\.bin\download-lmdb-prebuilds134391647507320643 0
 99C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\node_modules\.bin\download-lmdb-prebuilds.ps1134391647507320643 0
@@ -4394,24 +4393,24 @@
 72C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\img\SharonLogo.png134384164031798439 0
 90C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\img\TheCornerCafe_prepareTakeOut.png134391561602646306 0
 81C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.748ad148.css.map134391703739613449 0
-76C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.cad4fa1f.js134391765596076906 0
-80C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.cad4fa1f.js.map134391765596146928 0
-69C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.html134391765177727103 0
-81C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.3464ddca.js134391765596086905 0
-86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.505dc01f.css.map134391765179561048 0
-82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.53678b06.css134391765178400028 0
-81C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.74e50795.js134391765596455299 0
-86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.ab0485ab.css.map134391765179561048 0
-86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.dd90a294.css.map134391765179711979 0
-82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\CornerCafe.2a11c0cc.png134391765179561048 0
-91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.15f7c1a6.eot134391765177727103 0
-91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.8ecea74b.ttf134391765177727103 0
-91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.d3b5c43f.eot134391765178895446 0
-92C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.f477251c.woff134391765178561985 0
-82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\SharonLogo.f468cc97.png134391765178895446 0
-92C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\TheCornerCafe_Inside.4d6fc63a.png134391765179059148 0
-100C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\TheCornerCafe_prepareTakeOut.20c17adf.png134391765179561048 0
+76C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.cad4fa1f.js134391777226898181 0
+80C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.cad4fa1f.js.map134391777228065855 0
+69C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\about.html134391777226731215 0
+81C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.3464ddca.js134391777226898181 0
+86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.505dc01f.css.map134391777229560350 0
+82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.53678b06.css134391777226898181 0
+81C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.74e50795.js134391777226898181 0
+86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.ab0485ab.css.map134391777229560350 0
+86C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\coffeeshop.dd90a294.css.map134391777228065855 0
+82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\CornerCafe.2a11c0cc.png134391777229079216 0
+91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.15f7c1a6.eot134391777226898181 0
+91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.8ecea74b.ttf134391777226898181 0
+91C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.d3b5c43f.eot134391777226898181 0
+92C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\fontawesome-webfont.f477251c.woff134391777226898181 0
+82C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\SharonLogo.f468cc97.png134391777228728690 0
+92C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\TheCornerCafe_Inside.4d6fc63a.png134391777228940876 0
+100C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\dist\TheCornerCafe_prepareTakeOut.20c17adf.png134391777228940876 0
 72C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css\styles.css.map134391628243797315 0
 70C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css\_footer.scss134391621753674465 0
 69C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css\_modal.scss134391753812190728 0
-73C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css\_variables.scss134391704757359704 0
+73C:\Users\sharo\Desktop\NucampFolder\WebDev\coffeeshop\css\_variables.scss134391776205177526 0

@@ -1,10 +1,43 @@
+#reserveModal .modal-content {
+  border: 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
 #reserveModal .modal-header {
   background-color: #17a2b8;
   color: white;
 }
-
-#loginModal .modal-header {
+#reserveModal .order-section {
+  background-color: #f4faf7;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+#reserveModal .order-section-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #265633;
+  margin-bottom: 0.75rem;
+}
+#reserveModal .btn-add {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+  color: white;
+  font-weight: 600;
+}
+#reserveModal .btn-add:hover, #reserveModal .btn-add:focus {
+  filter: brightness(0.9);
+  color: white;
+}
+#reserveModal .btn-order {
   background-color: #127a49;
+  border-color: #127a49;
+  color: white;
+  font-weight: 600;
+  padding-inline: 1.5rem;
+}
+#reserveModal .btn-order:hover, #reserveModal .btn-order:focus {
+  filter: brightness(0.9);
   color: white;
 }
 
@@ -56,15 +89,27 @@ header h2 {
 }
 
 :root {
-  --primary-color: #3046c5;
-  --header-gradient-start: #5637dd;
-  --header-gradient-end: #60106b;
+  --primary-color: #278a5e;
+  --header-gradient-start: #055929;
+  --header-gradient-end: #10c042;
 }
 
 header {
   padding: 30px;
-  background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
+  background-image: linear-gradient(to right, #055929, #278a5e, #10c042);
   color: white;
+}
+header .content-container {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  column-gap: 1.5rem;
+}
+header .hero-text h1 {
+  margin: 0;
+}
+header .hero-text h2 {
+  margin: 0.25rem 0 0;
 }
 
 .row-content {
@@ -82,7 +127,7 @@ address {
 }
 
 .carousel {
-  border: solid #5637dd;
+  border: solid #2c1885;
 }
 
 .carousel-caption {
@@ -108,10 +153,6 @@ address {
 .navbar .nav-item.active .nav-link {
   background-color: rgba(255, 255, 255, 0.25);
   border-radius: 6px;
-}
-
-#reserveSeat {
-  align-items: flex-end;
 }
 
 /*# sourceMappingURL=styles.css.map */
