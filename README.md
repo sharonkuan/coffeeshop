@@ -12,6 +12,8 @@ The project demonstrates my ability to adapt and extend existing templates by mo
 
 The project was completed in approximately 9 hours, including design, implementation, debugging, testing, and Firebase deployment.
 
+In addition to development, deployment, and testing, the project includes a detailed project story and technical case study documenting design decisions, AI-assisted workflows, debugging experiences, deployment challenges, and future enhancement opportunities.
+
 ## Live Site
 
 Firebase Hosted Site:
@@ -354,6 +356,36 @@ Future enhancements may include:
 - Pricing calculations
 - Order summaries
 - Receipt generation
+
+---
+
+## Future Development Roadmap
+
+### Phase 1
+
+- Add client-side validation to the feedback form
+- Add validation messages and input guidance
+- Improve accessibility and screen reader support
+
+### Phase 2
+
+- Expand the ordering system to support multiple coffee types
+- Add milk and flavor selections
+- Add pastries and bakery item ordering
+- Add order summaries and pricing calculations
+
+### Phase 3
+
+- Create an administrative order dashboard
+- Add customer order history
+- Explore database integration with Firebase
+- Add user authentication for customer accounts
+
+### Phase 4
+
+- Integrate online payment capabilities
+- Add inventory tracking
+- Implement customer reviews and ratings
 
 ---
 
