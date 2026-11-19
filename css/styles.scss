@@ -4,6 +4,7 @@
 
 body {
   font-family: $body-font;
+  background-color: $body-background;
 }
 
 .content-container {
@@ -113,4 +114,19 @@ address {
     margin: 0;
     font-size: clamp(1.5rem, 4vw, 2.25rem);
   }
+}
+
+.breadcrumbNav {
+  margin: 0;
+  padding: 0;
+
+  ol {
+    margin: 5px 0px 20px;
+    padding: 0;
+  }
+}
+
+.firstDiv {
+    margin: 5px 0px 20px;
+    padding: 0;
 }
